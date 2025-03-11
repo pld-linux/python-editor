@@ -8,7 +8,7 @@ Summary:	Programmatically open an editor, capture the result
 Summary(pl.UTF-8):	Programowe otwieranie edytora i przechwycenie wyniku
 Name:		python-editor
 Version:	1.0.4
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/python-editor/
